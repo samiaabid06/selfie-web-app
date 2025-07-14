@@ -3,6 +3,7 @@
 A fun and interactive web app that lets you take selfies using just your voice command — _"take my selfie"_!
 
 This project uses **Web Speech API** for voice recognition and **WebcamJS** to access your webcam, making the selfie experience hands-free and effortless.
+<img width="1880" height="953" alt="takemyselfieimage" src="https://github.com/user-attachments/assets/e21dc7b8-908b-4c6b-8a05-603e225d0526" />
 
 ---
 
