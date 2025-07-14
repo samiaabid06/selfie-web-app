@@ -43,16 +43,6 @@ selfie-web-app/
 
 ```
 
----
-
-## 📸 Demo
-
-> Add a live link or screenshot if available  
-> _(e.g., GitHub Pages or CodePen)_  
-> _Coming soon..._
-
----
-
 ## 🧑‍💻 Author
 
 Made by [Samia Abid](https://github.com/samiaabid06)  
